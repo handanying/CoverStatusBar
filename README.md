@@ -1,0 +1,3 @@
+# CoverStatusBar
+覆盖StatusBar,但不使其隐藏
+有时候你想隐藏statusBar,然后在statusbar的位置做些自己的事情，但这时viewContoller的view的frame会发生变化（上移）。这时就可以覆盖statusbar
